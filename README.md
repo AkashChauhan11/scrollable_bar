@@ -1,6 +1,6 @@
 # Demo of horizontal scroll bar
 
-A new Flutter project.
+this project shows a demo how to implement vertical scroll bar in flutter using Listview.builder widget
 
 ## Getting Started
 
